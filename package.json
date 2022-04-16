@@ -4,7 +4,8 @@
   "description": "0xLogN's ESLint configurations (for TS and JS)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "np"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/thetayloredman/eslint-config-logn/issues"
   },
-  "homepage": "https://github.com/thetayloredman/eslint-config-logn#readme"
+  "homepage": "https://github.com/thetayloredman/eslint-config-logn#readme",
+  "peerDependencies": {
+    "eslint": "^8.13.0"
+  },
+  "devDependencies": {
+    "np": "^7.6.1"
+  }
 }
