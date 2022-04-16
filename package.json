@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-logn",
+  "version": "0.1.0",
+  "description": "0xLogN's ESLint configurations (for TS and JS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thetayloredman/eslint-config-logn.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "LogN",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/thetayloredman/eslint-config-logn/issues"
+  },
+  "homepage": "https://github.com/thetayloredman/eslint-config-logn#readme"
+}
